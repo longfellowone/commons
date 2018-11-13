@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3e1dd635-0bb7-4708-acf1-60627cc930e3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/n3/1.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/n3/3.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/n3/4.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/n3/5.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/n3/6.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/n1/5.go" beforeDir="false" afterPath="$PROJECT_DIR$/n1/5.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/n1/6.go" beforeDir="false" afterPath="$PROJECT_DIR$/n3/2.go" afterDir="false" />
-    </list>
+    <list default="true" id="3e1dd635-0bb7-4708-acf1-60627cc930e3" name="Default Changelist" comment="Update" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,12 +47,14 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="go" value="1749" />
+          <entry key="go" value="1766" />
+          <entry key="txt" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Go" value="1749" />
+          <entry key="Go" value="1766" />
+          <entry key="PLAIN_TEXT" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.go.postfix.template.usages.trigger">
@@ -74,11 +67,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/n3/1.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="224">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
@@ -101,11 +94,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/n3/4.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="12" selection-start-column="12" selection-end-column="12" />
+            <state relative-caret-position="84">
+              <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -159,10 +152,10 @@
         <option value="$PROJECT_DIR$/n2/4.go" />
         <option value="$PROJECT_DIR$/n3/2.go" />
         <option value="$PROJECT_DIR$/n3/3.go" />
-        <option value="$PROJECT_DIR$/n3/4.go" />
         <option value="$PROJECT_DIR$/n3/5.go" />
         <option value="$PROJECT_DIR$/n3/6.go" />
         <option value="$PROJECT_DIR$/n3/1.go" />
+        <option value="$PROJECT_DIR$/n3/4.go" />
       </list>
     </option>
   </component>
@@ -278,11 +271,11 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1673" y="27" width="887" height="1413" extended-state="4" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2532699" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2532699" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" weight="0.3298193" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.22531293" />
@@ -292,7 +285,7 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32962447" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.29141566" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.29141566" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -305,6 +298,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/n1/1.go">
@@ -441,13 +438,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/n3/4.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="12" selection-start-column="12" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/n3/5.go">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -464,8 +454,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/n3/1.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="224">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/n3/4.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
         </state>
       </provider>
     </entry>
