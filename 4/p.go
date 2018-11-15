@@ -2,6 +2,7 @@ package main
 
 import (
 	"fmt"
+	"os"
 )
 
 // removeInt returns new slice with value removed
@@ -29,7 +30,8 @@ func main() {
 
 	if err != nil {
 		fmt.Printf("Error: %v\n%v\n", err, d)
-	} else {
-		fmt.Println(d)
+		os.Exit(0)
 	}
+	fmt.Println(d)
+
 }
