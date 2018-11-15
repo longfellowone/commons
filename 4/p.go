@@ -13,6 +13,7 @@ func removeInt(f int, s []int) ([]int, error) {
 			// Another way to delete from slice
 			//x[2] = x[len(x)-1] // Sent x to end of index
 			//x = x[:len(x)-1]   // Chop off x from end of index
+			// And another way with sort.IntSlice.Search
 			copy(t, r)
 			return t, nil
 		}
