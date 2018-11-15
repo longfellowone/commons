@@ -26,8 +26,8 @@ func main() {
 	f := 65
 	d, err := removeInt(f, x)
 	if err != nil {
-		fmt.Println(err)
-		fmt.Println(d)
+		fmt.Printf("Error: %v\n%v\n", err, d)
+		//fmt.Println(d)
 	} else {
 		fmt.Println(d)
 	}
