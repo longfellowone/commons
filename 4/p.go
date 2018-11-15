@@ -21,13 +21,13 @@ func removeInt(f int, s []int) ([]int, error) {
 }
 
 func main() {
-	// y := []int{0, 1, 2, 3, 4, 5, 6}
 	x := []int{44, 55, 66, 34, 21, 50}
 	f := 65
+
 	d, err := removeInt(f, x)
+
 	if err != nil {
 		fmt.Printf("Error: %v\n%v\n", err, d)
-		//fmt.Println(d)
 	} else {
 		fmt.Println(d)
 	}
