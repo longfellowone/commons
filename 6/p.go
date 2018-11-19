@@ -16,9 +16,8 @@ func sum(x ...int) (t int, err error) {
 		return
 	}
 
-	t = 0
 	for _, v := range x {
-		fmt.Println("Adding", v, "to", t, "for a total of", t+v)
+		fmt.Printf("Adding %d to %d for a total of %d\n", v, t, v+t)
 		t += v
 	}
 	return
